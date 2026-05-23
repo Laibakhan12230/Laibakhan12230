@@ -30,10 +30,10 @@
 - AI-powered Automation Systems
 
 🌱 Exploring:
-- LangChain
 - MLOps
 - Docker & AWS
 - Advanced Neural Networks
+- Gen AI
 
 ✨ Goal:
 > To build intelligent AI systems that create real-world impact.
@@ -45,7 +45,7 @@
 <div align="center">
 
 ### 👩‍💻 Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,php" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,php" />
 
 ### 🤖 AI / ML / Data Science
 <img src="https://skillicons.dev/icons?i=tensorflow" />
