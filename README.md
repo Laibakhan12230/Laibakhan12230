@@ -2,7 +2,7 @@
 
 # ✨ Hey There, I'm Laiba Khan 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Machine+Learning+Engineer;Deep+Learning+Developer;Python+%7C+OpenCV+%7C+TensorFlow;Building+AI+for+Real+World+Problems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Machine+Learning+Engineer;Python+%7C+OpenCV+%7C+TensorFlow;Building+AI+for+Real+World+Problems" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8a2be2&height=220&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
