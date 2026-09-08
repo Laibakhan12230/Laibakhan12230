@@ -22,16 +22,16 @@
 - 🧠 Deep Learning
 - 👁 Computer Vision
 - 💬 NLP & Generative AI
-- 🔐 Cybersecurity
 
 🚀 Currently Building:
 - AI Notes Summarizer using OCR + NLP
 - Emotion Detection using CNN
-- AI-powered Automation Systems
+- AI-powered Automate preprocessimg
+- MLOps based Fraud Detetection System
 
 🌱 Exploring:
 - MLOps
-- Docker & AWS
+- Docker 
 - Advanced Neural Networks
 - Gen AI
 
@@ -55,7 +55,7 @@ Machine Learning • Deep Learning • NLP • Computer Vision • OpenCV • Sc
 </p>
 
 ### ⚙ Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,mongodb,postgresql,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,mongodb,postgresql,vscode" />
 
 ### 🚀 Frameworks
 <p>
